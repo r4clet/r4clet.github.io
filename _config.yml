@@ -1,7 +1,7 @@
 title: Degu Project Resources
 description: The Degu project softwares and documents.
 baseurl: ""
-url: "https://open-degu.github.io"
+url: "https://r4clet.github.io"
 
 permalink: pretty
 exclude: ["LICENSE.txt", "README.md"]
